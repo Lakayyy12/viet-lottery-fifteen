@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Xổ số Bình Dương APP</string>
+
+    <string name="desc3">Việt Nam là một quốc gia thuộc thế giới thứ ba ở châu Á phụ thuộc đáng kể vào đầu tư nước ngoài.
+        Bởi vì đây là một quốc gia nghèo khó, công dân chỉ được phép đánh bạc tiền của họ tại các giải xổ số do nhà nước quản lý.
+        Hội đồng xổ số miền Nam, Hội đồng xổ số miền Bắc và Hội đồng xổ số miền Trung là ba bộ phận chính của Xổ số kiến thiết quốc gia trực thuộc Bộ Tài chính.</string>
+
+    <string name="desc1">Chọn một trò chơi hoàn hảo trong số hàng ngàn giải xổ số trên khắp thế giới có thể là một điều đáng sợ nếu bạn không biết bắt đầu từ đâu,
+        nhưng một khi bạn hiểu những điều cơ bản, bạn sẽ có đủ tự tin để chọn trò chơi phù hợp cho mình.</string>
+
+    <string name="desc2">Cách đơn giản nhất để chọn số xổ số của bạn là sử dụng tùy chọn chọn nhanh hoặc chọn dễ cho các số được chọn ngẫu nhiên.
+        Nếu bạn có một con số may mắn yêu thích, bạn nên kiểm tra số liệu thống kê.</string>
+
+    <string name="desc8">Mặc dù tùy chọn này vẫn có sẵn, nhưng những ngày mua vé số độc quyền trong các cửa hàng đã không còn nữa.
+        Phương thức thuận tiện nhất là mua vé trựctuyến.
+        Nhiều xổ số chính thức cung cấp vé trực tuyến thông qua các trang web hoặc ứng dụng di động,
+        nhưng bạn phải là công dân của quốc gia được đề cập để tham gia.</string>
+
+    <string name="desc6">Nhiều cuộc rút thăm xổ số được phát trên truyền hình, mặc dù việc kiểm tra các con số trên trang web hoặc ứng dụng di động có thể thuận tiện hơn.
+        Mỗi xổ số có thời gian quay thưởng riêng và bạn có thể chơi trong đêm khuya khoắt nếu chơi trực tuyến từ một múi giờ khác.</string>
+
+    <string name="desc4">Bạn đã kiểm tra kỹ số của mình và nhận ra mình đã trúng giải! Xin chúc mừng. Thủ tục nhận giải thưởng của bạn rất đơn giản.
+Hãy nhớ rằng mọi xổ số đều có thời hạn thanh toán, trong khoảng từ 30 đến 180 ngày. Các giải thưởng nhỏ hơn có thể được nhận từ người bán hoặc tự động
+        chuyển cho bạn khi bạn chơi trực tuyến.</string>
+
+    <string name="desc5">Xổ số truyền thống Việt Nam đã trở nên phổ biến trong nhiều năm và hiện là một trong những trò tiêu khiển phổ biến nhất của đất nước.
+        Nó là khá đơn giản để mua và chơi.
+        Những người bán súng trường có thể được tìm thấy rất nhiều trên khắp các đường phố của Việt Nam. Bạn có thể dễ dàng mua vé với giá 10.000 đồng
+        (khoảng 50 xu) một vé. Người bán vé giữ 10% giá vé, tính ra mỗi vé khoảng 2.000 đồng. Do đó, đừng bị sốc nếu họ bán vé với giá cao hơn vào dịp nào đó.
+        Họ chỉ đơn giản muốn kiếm nhiều tiền hơn để đáp ứng nhu cầu hàng ngày của họ.</string>
+
+    <string name="desc7">Hơn nữa, việc bán xổ số ở Việt Nam đang gặp nhiều khó khăn. Vì người bán phải bán hết ve trước 3 giờ chiều. mỗi ngày,
+        vì kết quả được công bố lúc 4 giờ chiều. 63 tỉnh thành sẽ công bố giải thưởng hàng ngày từ 100.000 đến 2 tỷ đồng vào thời điểm đó.
+Phần lớn người bán hàng ở Việt Nam là người cao tuổi, người khuyết tật và những người khác vì mức lương thấp và lao động khó khăn.</string>
+    <string name="button">back_button</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="about1">Có một số trò chơi xổ số khác, nhưng xổ số là trò chơi được nhiều người yêu thích nhất. Sáu số được chọn ngẫu nhiên từ một nhóm các số cho Xổ số (như số 1 đến số 47). Bạn có thể mua một số Lô tô, còn được gọi là phiếu chơi, có sáu số hoặc được chọn ngẫu nhiên hoặc được chỉ định ngẫu nhiên. Sau đó, các con số được chọn trong một cuộc rút thăm. Bạn thắng nếu các con số trong trò chơi đã chọn của bạn trượt thẳng hàng.</string>
+<string name="about2">Nếu bạn thường xuyên chơi xổ số, việc mua vé thường xuyên có thể khiến bạn "lãng phí" tài chính nếu không trúng thưởng. Điều quan trọng cần nhớ là xổ số có tỷ lệ thành công cực kỳ thấp, có nghĩa là mỗi vé đều có khả năng cao là bạn sẽ không trúng thưởng.</string>
+    <string name="about3">Nó thay đổi. Đối với những cá nhân thích chơi xổ số, một số nhóm nhỏ hơn có thể giúp cải thiện tỷ lệ chiến thắng. Tuy nhiên, những người khác tin rằng chi phí của trò chơi không xứng đáng với khả năng thành công mong manh.</string>
+
+    <string name="about_title1">Làm thế nào bạn có thể chơi xổ số?</string>
+<string name="about_title2">Chơi xổ số có lãng phí tiền bạc không?</string>
+<string name="about_title3">Xổ số có đáng giá không?</string>
+
+
+    <string name="pri1">Chào mừng bạn đến với thông báo bảo mật cho Xổ số Đà Lạt APP.
+Xổ số Đà Lạt luôn cam kết bảo mật những thông tin cá nhân của bạn và tôn trọng quyền riêng tư của bạn. Thông báo về quyền riêng tư này sẽ giải thích cách chúng tôi xử lý dữ liệu cá nhân của bạn khi bạn truy cập trang web của chúng tôi (độc lập với việc bạn truy cập từ đâu), cũng như các quyền riêng tư của bạn và các biện pháp bảo vệ pháp lý được áp dụng để đảm bảo an toàn cho bạn.
+Bạn có thể nhấp qua các phần khác nhau của thông báo bảo mật được liệt kê bên dưới vì nó được trình bày theo kiểu nhiều lớp. Bằng cách nhấp vào biểu tượng ở cuối trang này, bạn cũng có thể in bản sao của thông báo. Để hiểu rõ hơn các định nghĩa của bất kỳ cụm từ nào được đề cập trong thông báo về quyền riêng tư này, vui lòng tham khảo Bảng chú giải thuật ngữ.</string>
+    <string name="pri2">Bảo mật thông tin cá nhân của bạn là rất quan trọng đối với chúng tôi. Chúng tôi tuân thủ các tiêu chuẩn ngành được chấp nhận chung, bao gồm các biện pháp bảo vệ hành chính, vật lý và kỹ thuật thích hợp để ngăn chặn việc sử dụng, truy cập, thay đổi hoặc tiết lộ trái phép dữ liệu cá nhân của bạn. Ngoài ra, chúng tôi chỉ cho phép nhân viên, đại lý, nhà thầu và các bên thứ ba khác có nhu cầu kinh doanh biết quyền truy cập vào thông tin cá nhân của bạn. Họ có nghĩa vụ duy trì tính bảo mật và sẽ chỉ xử lý thông tin cá nhân của bạn theo chỉ dẫn của chúng tôi.</string>
+    <string name="pri3">Để cung cấp cho bạn dịch vụ / sản phẩm tốt nhất và trải nghiệm tốt nhất và an toàn nhất, chúng tôi có lợi nhất là điều hành và quản lý công ty của mình với lợi ích hợp pháp. Trước khi chúng tôi xử lý dữ liệu cá nhân của bạn cho các mục đích hợp pháp của mình, chúng tôi đảm bảo rằng chúng tôi sẽ tính đến và cân nhắc mọi tác động tiềm ẩn đối với bạn (cả tích cực và tiêu cực). Chúng tôi không sử dụng thông tin cá nhân của bạn cho những việc mà tác động đến bạn sẽ lớn hơn lợi ích của chúng tôi (trừ khi chúng tôi có sự đồng ý của bạn hoặc được yêu cầu hoặc cho phép của pháp luật).
+Bằng cách liên hệ với chúng tôi, bạn có thể tìm hiểu thêm về cách chúng tôi cân nhắc lợi ích hợp pháp của mình so với bất kỳ ảnh hưởng nào có thể xảy ra đối với bạn liên quan đến các hoạt động cụ thể.
+Thực hiện hợp đồng đề cập đến việc sử dụng dữ liệu của bạn để thực hiện hợp đồng mà bạn là một bên hoặc thực hiện hành động theo yêu cầu của bạn trước khi giao kết hợp đồng.
+Xử lý dữ liệu cá nhân của bạn để tuân thủ yêu cầu pháp lý hoặc quy định có nghĩa là chúng tôi phải làm như vậy để hoàn thành nghĩa vụ mà chúng tôi phải tuân theo.</string>
+
+    <string name="toc1">Các cá nhân dưới mười tám tuổi (18) không được phép sử dụng Trang web (hoặc bất kỳ độ tuổi áp dụng cao hơn nào ở quốc gia có liên quan). Bạn không được phép tạo Tài khoản (được mô tả bên dưới) hoặc sử dụng Dịch vụ nếu độ tuổi của bạn dưới 18 (hoặc bất kỳ độ tuổi áp dụng nào cao hơn) (được định nghĩa bên dưới).</string>
+    <string name="toc2">Trong những trường hợp thích hợp, chúng tôi có quyền chấm dứt Tài khoản của Người dùng và / hoặc quyền truy cập vào Trang web và giữ lại bất kỳ giải thưởng nào còn lại nếu chúng tôi biết được thông qua các kênh đáng tin cậy rằng Người dùng dưới 18 tuổi (hoặc độ tuổi áp dụng cao hơn ).</string>
+    <string name="toc3">Bạn có nhiệm vụ truy cập và sử dụng Trang web cũng như các Dịch vụ tuân theo Điều khoản, tất cả các luật và quy định có liên quan cũng như Chính sách trò chơi có trách nhiệm (xem phần 13). Bạn có nhiệm vụ đảm bảo rằng việc sử dụng Trang web và Dịch vụ của bạn từ quốc gia nơi bạn đang chơi là được phép.
+
+Trang web dành riêng cho việc sử dụng cá nhân và các hoạt động giải trí.</string>
+
+    <string name="toc4">Vì Xổ Số Đà Lạt nhằm mục đích quảng bá trò chơi và cá cược có trách nhiệm, chúng tôi cấm bất kỳ ai dưới 18 tuổi (hoặc độ tuổi hợp pháp ở quốc gia có liên quan) mở tài khoản, sử dụng dịch vụ của chúng tôi hoặc mua Trò chơi Win liền; và (ii) cấm bất kỳ ai dưới 21 tuổi đăng ký tài khoản Xổ số Đà Lạt (ii) chủ trương rằng tất cả Người dùng đặt ra các hạn chế đối với quyền truy cập của họ vào Rút thăm Xổ số và Trò chơi Trúng ngay; và (iii) không đề nghị Người dùng sử dụng Xổ số hoặc Trò chơi Giành ngay làm phương tiện trả nợ hoặc như một nguồn thu nhập. Chúng tôi khuyên bạn nên ngừng sử dụng và đóng Tài khoản của mình bằng cách sử dụng Công cụ Trang web mà chúng tôi cung cấp trên Trang web nếu bạn tin rằng bạn đang sử dụng Dịch vụ của chúng tôi hoặc mua Trò chơi Instant Win một cách thiếu trách nhiệm. Chúng bao gồm những điều sau:</string>
+    <string name="toc41">• Bạn có tùy chọn, theo quyết định của mình, để hạn chế số tiền bạn có thể gửi trong một khoảng thời gian nhất định bằng cách sử dụng các công cụ của Trang web.</string>
+    <string name="toc42">• Bạn có thể tự do quyết định thời gian bạn có thể đăng nhập vào trang web trong một phiên duy nhất. Bạn sẽ đăng xuất khỏi trang web và bất kỳ trò chơi nào vẫn đang diễn ra sau khi khoảng thời gian này trôi qua.</string>
+    <string name="toc43">• Sử dụng các khả năng trên Trang web, bạn có thể quyết định có dành cho mình thời gian tạm dừng cho bất kỳ việc gì từ một ngày đến sáu tuần hay không. Bạn sẽ không thể chơi, gửi tiền, đặt hàng hoặc mua bất cứ thứ gì vào lúc này.</string>
+    <string name="toc44">• Bạn có tùy chọn để thiết lập một kiểm tra thực tế, chỉ có sẵn cho Trò chơi Thắng tức thì, theo lựa chọn của bạn. Kiểm tra thực tế tạm dừng chơi mỗi giờ và hiển thị thời gian bạn đã chơi, cùng với số tiền thắng và thua của bạn, trong suốt thời gian đó.</string>
+    <string name="toc45">• Sử dụng các tính năng trên Trang web, bạn có thể chọn cấm mình chơi trong một khoảng thời gian nhất định hoặc vô thời hạn, trong thời gian đó, bạn sẽ không thể truy cập vào Tài khoản của mình.</string>
+    <string name="button_next">next_page</string>
+    <string name="terms_and_policy"><![CDATA[Chính sách bảo mật & Các điều khoản và điều kiện]]></string>
+
+
+<string name="title_policy">CHÍNH SÁCH RIÊNG TƯ VÀ ĐIỀU KHOẢN &amp; ĐIỀU KIỆN</string>
+<string name="wayy">8 Cách Khác nhau Để Chọn Số Xổ Số Của Bạn</string>
+    <string name="splash">splash_screen</string>
+
+
+</resources>
